@@ -1,0 +1,23 @@
+[
+  {
+    "type": "House",
+    "address": "123 Main St",
+    "price": 250000,
+    "description": "Beautiful house with a spacious backyard",
+    "images": ["https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"],
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "garden": true
+  },
+  {
+    "type": "Apartment",
+    "address": "456 Elm St",
+    "price": 300000,
+    "description": "Cozy apartment with city views",
+    "images": ["house.svg", "house.svg"],
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "floor": 5
+  }
+]
